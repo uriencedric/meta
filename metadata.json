@@ -2,7 +2,7 @@
   "name": "Balthazar Token",
   "symbol": "BALTZ",
   "uri": "https://cdn.statically.io/gh/uriencedric/meta/main/metadata.json",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 200,
   "creators": [
     {
       "address": "F8qNx4oKc8a8hyFfiXkDLZYiu45rFWvfT9UikXH9sUng",
@@ -37,9 +37,5 @@
         "share": 100
       }
     ]
-  },
-  "collection": {
-    "name": "none",
-    "family": "none"
   }
 }
