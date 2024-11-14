@@ -31,7 +31,12 @@
       }
     ],
     "category": "image",
-    "creators": []
+    "creators": [
+       {
+        "address": "F8qNx4oKc8a8hyFfiXkDLZYiu45rFWvfT9UikXH9sUng",
+        "share": 100
+      }
+    ]
   },
   "collection": {
     "name": "none",
