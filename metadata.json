@@ -1,0 +1,45 @@
+{
+  "name": "Example NFT",
+  "symbol": "EXNFT",
+  "uri": "https://example.com/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "4Q2ar7Tf7Wc8J48DN3n8ZCM3xE7gRVxMseGdhnTeqTtn",
+      "share": 100
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4Q2ar7Tf7Wc8J48DN3n8ZCM3xE7gRVxMseGdhnTeqTtn",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Example Collection",
+    "family": "Example Family"
+  }
+}
