@@ -1,12 +1,12 @@
 {
-  "name": "Example NFT",
-  "symbol": "EXNFT",
-  "uri": "https://example.com/metadata.json",
+  "name": "Balthazar Token",
+  "symbol": "BALTZ",
+  "uri": "https://cdn.statically.io/gh/uriencedric/meta/main/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": [
     {
-      "address": "4Q2ar7Tf7Wc8J48DN3n8ZCM3xE7gRVxMseGdhnTeqTtn",
-      "share": 100
+      "address": "F8qNx4oKc8a8hyFfiXkDLZYiu45rFWvfT9UikXH9sUng",
+      "share": 5000000
     }
   ],
   "attributes": [
@@ -26,20 +26,15 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/image.png",
+        "uri": "https://cdn.statically.io/gh/uriencedric/meta/main/baltz.png",
         "type": "image/png"
       }
     ],
     "category": "image",
-    "creators": [
-      {
-        "address": "4Q2ar7Tf7Wc8J48DN3n8ZCM3xE7gRVxMseGdhnTeqTtn",
-        "share": 100
-      }
-    ]
+    "creators": []
   },
   "collection": {
-    "name": "Example Collection",
-    "family": "Example Family"
+    "name": "none",
+    "family": "none"
   }
 }
